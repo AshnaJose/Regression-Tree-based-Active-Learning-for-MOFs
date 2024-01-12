@@ -1,1 +1,1 @@
-# Regression-Tree-based-Active-Learning-for-MOFs
+# Regression Tree-based Active Learning for MOFs
