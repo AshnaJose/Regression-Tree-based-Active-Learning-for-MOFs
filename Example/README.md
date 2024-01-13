@@ -1,4 +1,4 @@
-The jupyter notebook RT-AL_MOFs_example.ipynb constains a comprehensive example of using Regression Tree-based active learning (RT-AL) on the QMOF dataset. 
+The jupyter notebook **RT-AL_MOFs_example.ipynb** constains a comprehensive example of using Regression Tree-based active learning (RT-AL) on the QMOF dataset. 
 
 The descriptor used in the example is Stoichiometric-120, that was computed using Matminer and is provided for the database in the file stoich120_fingerprints.csv. 
 
