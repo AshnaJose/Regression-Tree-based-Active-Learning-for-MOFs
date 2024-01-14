@@ -2,7 +2,7 @@ The jupyter notebook **RT-AL_MOFs_example.ipynb** contains a comprehensive examp
 
 The descriptor used in the example is Stoichiometric-120, that was computed using Matminer and is provided for the database in the file *stoich120_fingerprints.csv*. 
 
-The target property is PBE band gap, provided in the fle *labels.csv*. 
+The target property is PBE band gap, provided in the file *labels.csv*. 
 
 The structures to compute the descriptor and the PBE band gap values were obtained from the work of Rosen et. al. (DOI: 10.1016/j.matt.2021.02.015)
 
