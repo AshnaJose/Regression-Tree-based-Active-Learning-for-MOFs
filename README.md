@@ -12,7 +12,7 @@ Regression Tree-based Active Learing (RT-AL) is a pool-based active learning met
 
 The file *RT-AL.py* (which uses *regression_tree.py* and *var.py*) can be used for any given dataset of MOFs, with a descriptor of choice and target property of interest. 
 
-A comprehensive example on the usage of the code is provided in the folder *Examples*, for a benchmark MOF dataset.
+A comprehensive example on the usage of the code is provided in the folder *Example*, for a benchmark MOF dataset.
 
 # Citation
 
