@@ -16,7 +16,7 @@ A comprehensive example on the usage of the code is provided in the folder *Exam
 
 # Citation
 
-Please refer to the follwoing papers if you use these codes:
+Please refer to the following papers if you use these codes:
 
 1. Jose A, Devijver E, Jakse N, Poloni R. Informative Training Data for Efficient Property Prediction in Metal-Organic Frameworks by Active Learning. ChemRxiv. DOI:10.26434/chemrxiv-2023-sw9kv
 
