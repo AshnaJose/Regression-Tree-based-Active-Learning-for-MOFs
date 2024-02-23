@@ -18,7 +18,7 @@ A comprehensive example on the usage of the code is provided in the folder *Exam
 
 Please refer to the following papers if you use these codes:
 
-1. Jose A, Devijver E, Jakse N, Poloni R. Informative Training Data for Efficient Property Prediction in Metal-Organic Frameworks by Active Learning. ChemRxiv. DOI:10.26434/chemrxiv-2023-sw9kv
+1. Jose A, Devijver E, Jakse N, Poloni R. Informative Training Data for Efficient Property Prediction in Metal-Organic Frameworks by Active Learning. DOI:10.1021/jacs.3c13687 (ChemRxiv. DOI:10.26434/chemrxiv-2023-sw9kv)
 
 2. Jose, A., de Mendonça, J.P.A., Devijver, E. et al. Regression tree-based active learning. Data Min Knowl Disc (2023). https://doi.org/10.1007/s10618-023-00951-7
 
